@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://github.com/HassanRajput0/HassanRajput0/blob/main/b6f930546759410b8c62d93d1b7a6b6e.jpg)
 <h1 align="center">Hi 👋, I'M HASSAN RAJPUT</h1>
 <h3 align="center">FUCK YOU ALL HEATERS</h3>
 
